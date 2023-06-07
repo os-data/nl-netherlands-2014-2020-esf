@@ -11,6 +11,11 @@
     "region": "NEDERLAND"
   },
   "hash": "0ad174229f0652f1587da2575646217e",
+  "countryCode": "NL",
+  "fiscalPeriod": {
+    "start": "2014-01-01",
+    "stop": "2020-12-31"
+  },
   "language": "es",
   "model": {
     "dimensions": {
